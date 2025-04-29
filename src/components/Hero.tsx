@@ -29,15 +29,14 @@ const Hero = () => {
               Specializing in full-stack development, machine learning, and artificial intelligence.
             </p>
             <div className="flex space-x-4">
-              <Link
-                to="projects"
-                spy={true}
-                smooth={true}
-                offset={-64}
+              <a
+                href="/Samarth Bargale Resume.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-colors duration-300"
               >
-                View My Work
-              </Link>
+                My Resume
+              </a>
               <a
                 href="https://www.linkedin.com/in/samarth-bargale/"
                 target="_blank"

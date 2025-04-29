@@ -15,7 +15,7 @@ const experiences = [
   {
     title: 'Machine Learning Intern',
     company: 'Tarento Technologies, Bangalore',
-    period: 'July 2022 - March 2023',
+    period: 'July 2022 - December 2023',
     description: [
       'Created a Python-based Machine Learning algorithm that reduced customer churn by 15% for an e-commerce platform',
       'Applied Random Forest and Logistic Regression algorithms, achieving 95% accuracy in predictive models. ',
