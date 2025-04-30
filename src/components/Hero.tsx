@@ -16,9 +16,8 @@ const Hero = () => {
           >
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-6">
               Hi, I'm{' '}
-              <div className="inline-block">
-                <span className="text-blue-500">Samarth</span>{' '}
-                <span className="text-purple-500">Bargale</span>
+              <div className="inline-block gradient-text lg:text-7xl leading-relaxed pb-4 mb-2">
+                Samarth Bargale
               </div>
             </h1>
             <h2 className="text-2xl sm:text-3xl text-gray-300 mb-8">
